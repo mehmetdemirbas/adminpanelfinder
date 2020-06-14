@@ -4,6 +4,6 @@ python adminfinder.py
 
 www.example.com
 
-contact : instagram.com/slayeri4.php
-          mail : slayeri4.py@gmail.com
-          twitter.com/Hackerxp21
+contact : instagram.com/root.mehmet
+          mail : mehmetd.php@gmail.com
+          twitter.com/saltanatbekcisi
